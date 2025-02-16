@@ -6,7 +6,7 @@
 🔹 Building **Full-stack applications** with **React, Node.js & Next.js**  
 🔹 Currently exploring **Big Data, Big Data frameworks & Generative AI**  
 
-📂 Check out all my projects: [GitHub Repositories](https://github.com/YoussefAhmed108/My-Projects)  
+📂 Check out all my projects: [My Projects](https://github.com/YoussefAhmed108/My-Projects)  
 
 
 
